@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-**Computer Science Major | AI Development Enthusiast** | Florida Polytechnic · Computer Science**
+**Computer Science Major | AI Development Enthusiast** | **Florida Polytechnic · Computer Science**
 
 Hey there! I’m currently pursuing my degree in **Computer Science** with a concentration in **Artificial Intelligence Development**.  
 I’m passionate about building smart, efficient systems and exploring how AI can solve real-world problems.  

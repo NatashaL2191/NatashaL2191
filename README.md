@@ -15,7 +15,7 @@ I love working on projects that combine **programming**, **data**, and **automat
   <img src="./assets/mark-only-icon.png" width="40"/>
   <img src="./assets/Git-Icon-White.png" width="40"/>
   <img src="./assets/c-plus-plus-logo.png" width="40"/>
-  <img src="./assets/pl-sql-computer-icons-oracle-sql-developer-symbol-png-favpng-UvmbRBP1WFGKq88r65aREz3wi.jpg" width="40"/>
+  <img src="./assets/sql.png" width="40"/>
 </p>
 
 

@@ -13,9 +13,9 @@ I love working on projects that combine **programming**, **data**, and **automat
 <p>
   <img src="./assets/python-logo-only.svg" width="40"/>
   <img src="./assets/mark-only-icon.png" width="40"/>
-  <img src="./assets/git.svg" width="40"/>
-  <img src="./assets/cplusplus.svg" width="40"/>
-  <img src="./assets/mysql.svg" width="40"/>
+  <img src="./assets/git-icon-white.png" width="40"/>
+  <img src="./assets/c-plus-plus.png" width="40"/>
+  <img src="./assets/pl-sql-computer-icons-oracle-sql-developer-symbol-png-favpng-UvmbRBP1WFGKq88r65aREz3wi.png" width="40"/>
 </p>
 
 

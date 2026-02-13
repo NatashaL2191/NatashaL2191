@@ -1,4 +1,4 @@
-## 👋 About Me
+## About Me
 
 **Computer Science Major | AI Development Enthusiast** | **Florida Polytechnic · Computer Science**
 
@@ -6,7 +6,7 @@ Hey there! I’m currently pursuing my degree in **Computer Science** with a con
 I’m passionate about building smart, efficient systems and exploring how AI can solve real-world problems.  
 I love working on projects that combine **programming**, **data**, and **automation** and I’m always learning new tools to expand my stack.
 
-📫 How to reach me: linaresn2024@gmail.com
+How to reach me: linaresn2024@gmail.com
 
 ## 🛠️ Tech Stack
 
